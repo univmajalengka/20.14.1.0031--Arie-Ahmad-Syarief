@@ -29,7 +29,7 @@
                 else if (status ='bekum') and ( golongan ='B') then
                 tunjangan := 60000;
 
-                if (gaji_pokok > 300000) then
+                if (gaji_pokok <= 300000) then
                 presentase := 0.05
                 else if (gaji_pokok > 300000) then
                 presentase :=0.1;
