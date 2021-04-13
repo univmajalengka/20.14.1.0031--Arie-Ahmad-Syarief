@@ -25,7 +25,7 @@ writeln('Nama                           :',nama);
 writeln('NPM                            :',npm);
 writeln('Jenis Kelamin                  :',jk);
 writeln('Alamat                         :',alamat);
-writeln('Tempat Tanggal Lahir           :',jk);
+writeln('Tempat Tanggal Lahir           :',ttl);
 writeln('Kontak Whatsapp                :',wa);
 writeln('Email                          :',email);
 end;
